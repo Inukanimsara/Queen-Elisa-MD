@@ -47,7 +47,8 @@ global.sp = '🔵'
 global.alivelogo = `https://i.ibb.co/JQz1Lyy/204244-adapted-landscape-1280x1280.jpg`
 global.alive =`Hello i am alive now
 
-Download song type .yt 
+You Can download any video,song and more Type .menu For Command List
+OWNER - wa.me/94785509477
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
 global.welcome = `
@@ -58,18 +59,18 @@ global.welcome = `
 // වෙල්කම් එක යවන්න ඔනි නම් add කියලා දාන්න 
 global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
-global.sendgoodbye = ``
+global.sendgoodbye = `remove`
 // Caption 
 global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 White𝐐𝐮𝐞𝐞𝐧`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
     botAdmin: 'Bot must be admin neh!',
-    owner: 'This cmd is for Elisa bot owner only',
+    owner: 'This cmd is for WhiteQueen bot owner only',
     group: 'oooh sorry this cmd is for groups only!',
     private: 'goossssh it can only used in dms!',
     bot: 'This cmd  its only for the bot host',
-    wait: 'Wait Elisa bot processing ',
+    wait: 'Wait WhiteQueen bot processing ',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
 global.limitawal = {
