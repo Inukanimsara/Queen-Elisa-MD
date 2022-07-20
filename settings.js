@@ -51,15 +51,11 @@ You Can download any video,song and more Type .menu For Command List
 OWNER - wa.me/94785509477
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
-global.welcome = `
-🌀 Thanks Fro using sl zim bot
-✾ Some bugs fixing
-😼♥️
-`
+global.welcome = ``
 // වෙල්කම් එක යවන්න ඔනි නම් add කියලා දාන්න 
-global.sendwelcome = `delete`
+global.sendwelcome = ``
 // Good bye එක ඔනි නම් remove කියලා දාන්න
-global.sendgoodbye = `delete`
+global.sendgoodbye = ``
 // Caption 
 global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 White𝐐𝐮𝐞𝐞𝐧`
 global.mess = {
