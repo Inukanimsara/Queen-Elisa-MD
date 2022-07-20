@@ -57,9 +57,9 @@ global.welcome = `
 😼♥️
 `
 // වෙල්කම් එක යවන්න ඔනි නම් add කියලා දාන්න 
-global.sendwelcome = `add`
+global.sendwelcome = `delete`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
-global.sendgoodbye = `remove`
+global.sendgoodbye = `delete`
 // Caption 
 global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 White𝐐𝐮𝐞𝐞𝐧`
 global.mess = {
