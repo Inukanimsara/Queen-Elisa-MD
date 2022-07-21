@@ -45,11 +45,11 @@ global.prefa = ['#','!','/','']
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
 global.alivelogo = `https://i.ibb.co/JQz1Lyy/204244-adapted-landscape-1280x1280.jpg`
-global.alive =`Hello i am alive now
+global.alive =`Hello i am alive now Dear sir
 
 You Can download any video,song and more Type .menu For Command List
-OWNER - wa.me/94785509477
-Thanks fro using...`
+OWNER WhiteRomiyo- wa.me/94785509477
+Thanks fro using...Whitequeen BOT`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
 global.welcome = `WELCOME`
 // වෙල්කම් එක යවන්න ඔනි නම් add කියලා දාන්න 
