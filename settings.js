@@ -33,11 +33,12 @@ global.APIKeys = {
 
 //other
 global.owner = ['94785509477'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.owner = ['923112793923'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
 global.pemilik = ['94785509477'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['94785509477'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'WhiteKing-SMG' // Your name ඔබේ නම 
 global.botnma = '💃 White𝐐𝐮𝐞𝐞𝐧 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = 'WhiteKing' //ownernama,ownername
+global.ownernma = 'White𝚁𝚘𝚖𝚒𝚢𝚘 & 𝙰𝚂𝙰𝙳' //ownernama,ownername
 global.packname = 'WhiteQueen Sticker' // Sticker package name 
 global.author = 'Samiboy' // Sticker Autor name 
 global.sessionName = 'session'
