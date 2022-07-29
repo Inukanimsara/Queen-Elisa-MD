@@ -32,11 +32,10 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94785509477'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
 global.owner = ['923112793923'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
 global.pemilik = ['94785509477'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['94785509477'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'WhiteKing-SMG' // Your name ඔබේ නම 
+global.pengguna = 'Deploper-94785509477' // Your name ඔබේ නම 
 global.botnma = '💃 White𝐐𝐮𝐞𝐞𝐧 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
 global.ownernma = 'White𝚁𝚘𝚖𝚒𝚢𝚘 & 𝙰𝚂𝙰𝙳' //ownernama,ownername
 global.packname = 'WhiteQueen Sticker' // Sticker package name 
@@ -46,17 +45,17 @@ global.prefa = ['#','!','/','']
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
 global.alivelogo = `https://i.ibb.co/JQz1Lyy/204244-adapted-landscape-1280x1280.jpg`
-global.alive =`Hello i am alive now Dear sir
+global.alive =`🎧Hello i am alive now Dear sir✨
 
 You Can download any video,song and more Type .menu For Command List
-OWNER WhiteRomiyo- wa.me/94785509477
+Deploper WhiteRomiyo- wa.me/94785509477
 Thanks fro using...Whitequeen BOT`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
 global.welcome = `WELCOME`
 // වෙල්කම් එක යවන්න ඔනි නම් add කියලා දාන්න 
 global.sendwelcome = `remove`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
-global.sendgoodbye = `Share Group link - https://chat.whatsapp.com/C6JVOrICLOf3qtIL9jK2yJ`
+global.sendgoodbye = `remove`
 // Caption 
 global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 White𝐐𝐮𝐞𝐞𝐧`
 global.mess = {
