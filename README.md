@@ -3,11 +3,11 @@
 <div align="center">
   <img src="https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg" width="300" height="300">
   
-# 🧚 ◍ Queen Elisa MD ◍ 🧚
+# 🧚 WhiteJuliyet MD ◍ 🧚
 <div align="center">
-Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Base is cheems bot Special Thanks Fro All helpers
+Whitejuliyet is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Base is cheems bot Special Thanks Fro All helpers
   
- [@SlRealtech]() | [@darkAlpha]() | [@sanuwa]() | [@isuru]() 
+ [@WhiteRomiyo]() | [@Asad]() | [@team]() | [@SMG]() 
 
 <div align="left">
 
@@ -18,7 +18,7 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
 4. Add app name and deploy 
 5. Watch your heroku log 
 
-##### [ᴡᴀᴛᴄʜ ᴠɪᴅᴇᴏ ʜᴏᴡ ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ʙᴏᴛ](https://youtu.be/wXovNeqOHSo)
+##### [ᴡᴀᴛᴄʜ ᴠɪᴅᴇᴏ ʜᴏᴡ ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ʙᴏᴛ](https://youtube.com/search/how+to+make+whatsapp+bot)
 
 
 <div align="left">
@@ -27,7 +27,7 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
 # 
 ### FORK QUEEN ELISA REPO
  <p align="left">
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-MD/fork"><img align="center" src="https://i.imgur.com/t1fC4oE.jpeg" alt="Fork and deploy" height="35" width="150" /></a>
+<a href="https://github.com/Inukanimsara/White-Juliyet-MD/fork"><img align="center" src="https://i.imgur.com/t1fC4oE.jpeg" alt="Fork and deploy" height="35" width="150" /></a>
 
 ### SCAN QR CODE 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@mrnimaofc/Queen-Elisa-MD?v=1?outputonly=1&lite=1#index.js)
@@ -41,10 +41,10 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFF00&lines=If+you+think+this+bot+is+not+good;deploy+another+bot+you+like;If+you+become+Question+about+bot;join+our+Whatsapp+support+group;to+solve+it+♥️)](https://git.io/typing-svg)
 #### 𝙵𝚁𝙾 𝙼𝙾𝚁𝙴 
 + [`𝙹𝙾𝙸𝙽 𝙷𝙴𝙻𝙿 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/KYvD0uan1KKLUSTtMHV9vi) 
-+ [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/94715166712?text=From_Queen_Elisa_Md_Repo💃)
++ [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/94785509477?text=From_white_Juliyet_Md_Repo💃)
 
 #### ```TOTAL REPO VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/DarkMakerofc/count.svg)
+![Visitor Count]()
 # 
 # 
 # 
