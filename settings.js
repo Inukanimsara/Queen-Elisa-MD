@@ -47,7 +47,8 @@ global.sp = '🔵'
 global.alivelogo = `https://i.ibb.co/JQz1Lyy/204244-adapted-landscape-1280x1280.jpg`
 global.alive =`🎧Hello i am alive now Dear sir✨
 
-You Can download any video,song and more Type .menu For Command List
+You Can download any video,song and more 
+Type .menu For Command List
 Deploper WhiteRomiyo- wa.me/94785509477
 Thanks fro using...Whitequeen BOT`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
